@@ -25,10 +25,7 @@
   <a href="https://www.youtube.com/channel/UCnuBw9DUeNbhHtdVMs1D0kQ" alt="Youtube channel" target="_blank" >
     <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>
   </a>
-  
-  <a href="mailto:trantandatt.26@gmail.com" alt="Email">
-    <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
-  </a>
+ 
 </p>
 
 ## Skills:
