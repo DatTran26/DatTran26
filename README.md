@@ -39,8 +39,7 @@
   <img src="https://img.icons8.com/color/48/000000/github-2.png"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
   <img src="https://img.icons8.com/color/48/null/visual-studio--v2.png"/>
-  ![image](https://github.com/DatTran26/DatTran26/assets/140488068/f843effd-f0a4-4bcb-933f-e024bb1572ac)
-
+  <img src="https://icons8.com/icon/Rc0Xn5AtE8kX/python"/>
 <!--   <img src="https://img.icons8.com/dusk/48/000000/anaconda.png"/>
   <img src="https://img.icons8.com/fluent/48/000000/spyder-ide.png"/>
   <img src="https://img.icons8.com/color/48/000000/trello.png"/> -->
