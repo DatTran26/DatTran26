@@ -1,4 +1,4 @@
-<img align="left" width="400" src="[https://drive.google.com/file/d/1p5nObH-0WDwi5_qidPIuTCMDLVcQvlA_/view?usp=drive_link](https://drive.google.com/file/d/1p5nObH-0WDwi5_qidPIuTCMDLVcQvlA_/view?usp=sharing)">
+<img align="left" width="400" src="https://drive.google.com/file/d/1p5nObH-0WDwi5_qidPIuTCMDLVcQvlA_/view?usp=sharing">
 <h1 align="center">Hi 👋, I'm Tran Tan Dat</h1>
 <p align="center">
   <h3 align="center">A passionate developer from Vietnam 🇻🇳 </h3>
