@@ -1,1 +1,0 @@
-print("mot con vit ",sep=',')
