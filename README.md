@@ -163,27 +163,23 @@
 ## ⏱️ Weekly Coding Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=DatTran26&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&layout=compact&langs_count=10&custom_title=Weekly%20Coding%20Activity" width="60%" alt="WakaTime Stats"/>
+  <img src="https://img.shields.io/badge/WakaTime-Tracking%20Active-58a6ff?style=for-the-badge&logo=wakatime&logoColor=white&labelColor=161b22" alt="WakaTime"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <a href="https://wakatime.com/@DatTran26">
-    <img src="https://wakatime.com/badge/user/DatTran26.svg?style=for-the-badge&color=58a6ff&labelColor=161b22" alt="WakaTime"/>
-  </a>
-</div>
-
-<br/>
-
-<details>
-  <summary><b>📈 Detailed WakaTime Stats (click to expand)</b></summary>
-  <br/>
 
 <!--START_SECTION:waka-->
+
+```text
+⏳ Collecting data... WakaTime is now tracking my coding activity!
+📊 Stats will auto-update here daily via GitHub Actions.
+```
+
 <!--END_SECTION:waka-->
 
-</details>
+</div>
 
 <br/>
 
@@ -191,18 +187,34 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DatTran26&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" width="98%" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=DatTran26&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" width="80%" alt="Trophies"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DatTran26&theme=github_dark" width="90%" alt="Profile Details"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DatTran26&theme=github_dark" width="32%" alt="Repos per Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DatTran26&theme=github_dark" width="32%" alt="Most Commit Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DatTran26&theme=github_dark&utcOffset=7" width="32%" alt="Productive Time"/>
 </div>
 
 <br/>
 
 <!-- Snake Animation -->
+## 🐍 Contribution Snake
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DatTran26/DatTran26/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DatTran26/DatTran26/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/DatTran26/DatTran26/output/github-snake-dark.svg" width="100%" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/DatTran26/DatTran26/output/github-snake-dark.svg" width="100%" />
   </picture>
+
+  > *🔄 Snake animation auto-generates every 12 hours via GitHub Actions. [Run manually](https://github.com/DatTran26/DatTran26/actions/workflows/snake.yml) for the first time.*
 </div>
 
 <br/>
@@ -212,14 +224,24 @@
 
 <div align="center">
   <a href="https://www.facebook.com/datvuive.26">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>&nbsp;
   <a href="https://github.com/DatTran26">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>&nbsp;
   <a href="https://www.youtube.com/channel/UCnuBw9DUeNbhHtdVMs1D0kQ">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>&nbsp;
+  <a href="https://wakatime.com/@78622d67-50f9-495b-8bc0-0c91a8878cc9">
+    <img src="https://img.shields.io/badge/WakaTime-%23000000.svg?style=for-the-badge&logo=wakatime&logoColor=white" alt="WakaTime"/>
   </a>
+</div>
+
+<br/>
+
+<!-- Quote -->
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" width="70%"/>
 </div>
 
 <br/>
@@ -227,4 +249,8 @@
 <!-- Footer -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=120&section=footer" width="100%"/>
+</div>
+
+<div align="center">
+  <sub>Built with ❤️ by <a href="https://github.com/DatTran26">Trần Tấn Đạt</a></sub>
 </div>
