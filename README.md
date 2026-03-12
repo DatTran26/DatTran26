@@ -183,12 +183,8 @@
 
 <br/>
 
-<!-- GitHub Trophies -->
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DatTran26&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" width="80%" alt="Trophies"/>
-</div>
+<!-- Profile Summary -->
+## 🏆 Profile Summary
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DatTran26&theme=github_dark" width="90%" alt="Profile Details"/>
@@ -197,8 +193,12 @@
 <br/>
 
 <div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DatTran26&theme=github_dark" width="32%" alt="Stats"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DatTran26&theme=github_dark" width="32%" alt="Repos per Language"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DatTran26&theme=github_dark" width="32%" alt="Most Commit Language"/>
+</div>
+
+<div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DatTran26&theme=github_dark&utcOffset=7" width="32%" alt="Productive Time"/>
 </div>
 
