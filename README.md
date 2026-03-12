@@ -30,27 +30,44 @@
 <!-- About Me -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
-```yaml
-name: Trần Tấn Đạt
-location: Vietnam 🇻🇳
-role: Full-Stack Developer & AI Enthusiast
-education: Software Engineering
-motto: "Don't get cold feet. I know you gonna make it. Break a leg."
+<table>
+<tr>
+<td width="50%" valign="top">
 
-currently_working_on:
-  - WebAI Automation Team (TypeScript)
-  - Smart Farm IoT System (JavaScript)
-  - SOC Security System (TypeScript)
-  - Booking Web Application (C#)
+### Who am I?
 
-interests:
-  - Artificial Intelligence & Machine Learning
-  - Web Development (Full-Stack)
-  - Automation & DevOps
-  - IoT & Smart Systems
+- **Trần Tấn Đạt** from Vietnam 🇻🇳
+- Full-Stack Developer & AI Enthusiast
+- Software Engineering Student
+- *"Don't get cold feet. I know you gonna make it. Break a leg."*
 
-fun_fact: "I turn coffee into code ☕ → 💻"
-```
+### What I'm working on
+
+- 🤖 [WebAI Automation Team](https://github.com/DatTran26/WebAI-Automation-Team) `TypeScript`
+- 🌾 [Smart Farm IoT](https://github.com/DatTran26/Smart-Farm) `JavaScript`
+- 🛡️ [SOC Security System](https://github.com/DatTran26/SOC-System) `TypeScript`
+- 🏨 [Booking Web App](https://github.com/DatTran26/Booking-Web-App) `C#`
+
+</td>
+<td width="50%" valign="top">
+
+### What I'm into
+
+- 🧠 Artificial Intelligence & Machine Learning
+- 🌐 Web Development (Full-Stack)
+- ⚡ Automation & DevOps
+- 📡 IoT & Smart Systems
+
+### Quick facts
+
+- 🔭 Currently exploring **AI Agents & Automation**
+- 🌱 Learning **Cloud Architecture & DevOps**
+- ☕ Fun fact: I turn coffee into code `☕ → 💻`
+- 📫 Reach me on [Facebook](https://www.facebook.com/datvuive.26)
+
+</td>
+</tr>
+</table>
 
 <br/>
 
