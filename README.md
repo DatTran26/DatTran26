@@ -213,8 +213,6 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DatTran26/DatTran26/output/github-snake.svg" />
     <img alt="Snake animation" src="https://raw.githubusercontent.com/DatTran26/DatTran26/output/github-snake-dark.svg" width="100%" />
   </picture>
-
-  > *🔄 Snake animation auto-generates every 12 hours via GitHub Actions. [Run manually](https://github.com/DatTran26/DatTran26/actions/workflows/snake.yml) for the first time.*
 </div>
 
 <br/>
