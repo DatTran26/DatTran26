@@ -193,12 +193,8 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DatTran26&theme=github_dark" width="32%" alt="Stats"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DatTran26&theme=github_dark" width="32%" alt="Repos per Language"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DatTran26&theme=github_dark" width="32%" alt="Most Commit Language"/>
-</div>
-
-<div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DatTran26&theme=github_dark&utcOffset=7" width="32%" alt="Productive Time"/>
 </div>
 
@@ -249,6 +245,3 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=120&section=footer" width="100%"/>
 </div>
 
-<div align="center">
-  <sub>Built with ❤️ by <a href="https://github.com/DatTran26">Trần Tấn Đạt</a></sub>
-</div>
