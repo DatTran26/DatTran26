@@ -172,9 +172,12 @@
 
 <!--START_SECTION:waka-->
 
-```text
-⏳ Collecting data... WakaTime is now tracking my coding activity!
-📊 Stats will auto-update here daily via GitHub Actions.
+```txt
+From: 04 March 2026 - To: 11 March 2026
+
+Total Time: 0 secs
+
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
