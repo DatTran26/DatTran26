@@ -28,7 +28,7 @@
 <br/>
 
 <!-- About Me -->
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="32" alt="About Me"/> About Me
 
 <table>
 <tr>
@@ -43,27 +43,27 @@
 
 ### What I'm working on
 
-- 🤖 [WebAI Automation Team](https://github.com/DatTran26/WebAI-Automation-Team) `TypeScript`
-- 🌾 [Smart Farm IoT](https://github.com/DatTran26/Smart-Farm) `JavaScript`
-- 🛡️ [SOC Security System](https://github.com/DatTran26/SOC-System) `TypeScript`
-- 🏨 [Booking Web App](https://github.com/DatTran26/Booking-Web-App) `C#`
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="20"/> [WebAI Automation Team](https://github.com/DatTran26/WebAI-Automation-Team) `TypeScript`
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Sheaf%20of%20Rice.png" width="20"/> [Smart Farm IoT](https://github.com/DatTran26/Smart-Farm) `JavaScript`
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" width="20"/> [SOC Security System](https://github.com/DatTran26/SOC-System) `TypeScript`
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Hotel.png" width="20"/> [Booking Web App](https://github.com/DatTran26/Booking-Web-App) `C#`
 
 </td>
 <td width="50%" valign="top">
 
 ### What I'm into
 
-- 🧠 Artificial Intelligence & Machine Learning
-- 🌐 Web Development (Full-Stack)
-- ⚡ Automation & DevOps
-- 📡 IoT & Smart Systems
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" width="20"/> Artificial Intelligence & Machine Learning
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20with%20Meridians.png" width="20"/> Web Development (Full-Stack)
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="20"/> Automation & DevOps
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Satellite%20Antenna.png" width="20"/> IoT & Smart Systems
 
 ### Quick facts
 
-- 🔭 Currently exploring **AI Agents & Automation**
-- 🌱 Learning **Cloud Architecture & DevOps**
-- ☕ Fun fact: I turn coffee into code `☕ → 💻`
-- 📫 Reach me on [Facebook](https://www.facebook.com/datvuive.26)
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" width="20"/> Currently exploring **AI Agents & Automation**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Seedling.png" width="20"/> Learning **Cloud Architecture & DevOps**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" width="20"/> Fun fact: I turn coffee into code `☕ → 💻`
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Incoming%20Envelope.png" width="20"/> Reach me on [Facebook](https://www.facebook.com/datvuive.26)
 
 </td>
 </tr>
@@ -72,42 +72,44 @@
 <br/>
 
 <!-- Tech Stack -->
-## 🛠️ Tech Stack
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="32" alt="Tech Stack"/> Tech Stack
 
 <div align="center">
 
 ### Languages
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,cs,java,python,html,css&theme=dark" alt="Languages"/>
+  </a>
+</p>
 
 ### Frameworks & Libraries
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=dotnet,nodejs,react&theme=dark" alt="Frameworks"/>
+  </a>
+</p>
 
 ### AI & Data
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=opencv,tensorflow,jupyter&theme=dark" alt="AI & Data"/>
+  </a>
+</p>
 
 ### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,vercel&theme=dark" alt="Tools"/>
+  </a>
+</p>
 
 </div>
 
 <br/>
 
 <!-- GitHub Stats -->
-## 📊 GitHub Stats
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="32" alt="Stats"/> GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DatTran26&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" width="49%" alt="GitHub Stats"/>
@@ -128,7 +130,7 @@
 <br/>
 
 <!-- Top Projects -->
-## 🚀 Top Projects
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="32" alt="Projects"/> Top Projects
 
 <div align="center">
   <a href="https://github.com/DatTran26/WebAI-Automation-Team">
@@ -160,7 +162,7 @@
 <br/>
 
 <!-- WakaTime Stats -->
-## ⏱️ Weekly Coding Stats
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Stopwatch.png" width="32" alt="WakaTime"/> Weekly Coding Stats
 
 <div align="center">
   <img src="https://img.shields.io/badge/WakaTime-Tracking%20Active-58a6ff?style=for-the-badge&logo=wakatime&logoColor=white&labelColor=161b22" alt="WakaTime"/>
@@ -190,7 +192,7 @@ HTML       3 mins                ▓░░░░░░░░░░░░░░�
 <br/>
 
 <!-- Profile Summary -->
-## 🏆 Profile Summary
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="32" alt="Summary"/> Profile Summary
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DatTran26&theme=github_dark" width="90%" alt="Profile Details"/>
@@ -207,7 +209,7 @@ HTML       3 mins                ▓░░░░░░░░░░░░░░�
 <br/>
 
 <!-- Snake Animation -->
-## 🐍 Contribution Snake
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="32" alt="Snake"/> Contribution Snake
 
 <div align="center">
   <picture>
@@ -220,7 +222,7 @@ HTML       3 mins                ▓░░░░░░░░░░░░░░�
 <br/>
 
 <!-- Connect With Me -->
-## 🤝 Connect With Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="32" alt="Connect"/> Connect With Me
 
 <div align="center">
   <a href="https://www.facebook.com/datvuive.26">
