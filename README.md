@@ -173,14 +173,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 March 2026 - To: 12 March 2026
+From: 06 March 2026 - To: 13 March 2026
 
-Total Time: 31 mins
+Total Time: 2 hrs 2 mins
 
-Markdown   23 mins               ██████████████████▒░░░░░░   73.05 %
-YAML       4 mins                ███▓░░░░░░░░░░░░░░░░░░░░░   14.21 %
-HTML       3 mins                ██▓░░░░░░░░░░░░░░░░░░░░░░   10.91 %
-PHP        0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
+PHP        1 hr 25 mins          █████████████████▒░░░░░░░   69.83 %
+Markdown   28 mins               ██████░░░░░░░░░░░░░░░░░░░   23.62 %
+YAML       4 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 %
+HTML       3 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.84 %
 ```
 
 <!--END_SECTION:waka-->
