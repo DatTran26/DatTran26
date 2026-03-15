@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=220&section=header&text=TRAN%20TAN%20DAT&fontSize=60&fontColor=58a6ff&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Vietnam%20🇻🇳&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%"/>
+  <img src="assets/header.svg" width="100%" alt="TRAN TAN DAT"/>
 </div>
 
 <!-- Profile Views & Followers -->

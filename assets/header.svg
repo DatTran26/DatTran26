@@ -1,0 +1,116 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 260" width="100%">
+  <defs>
+
+    <!-- Background radial glow -->
+    <radialGradient id="bgGlow" cx="50%" cy="55%" r="65%">
+      <stop offset="0%"   stop-color="#0d2045"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </radialGradient>
+
+    <!-- Name gradient: blue → white-blue → blue -->
+    <linearGradient id="nameGrad" x1="0%" x2="100%" y1="0%" y2="0%">
+      <stop offset="0%"   stop-color="#4facfe"/>
+      <stop offset="48%"  stop-color="#d6eeff"/>
+      <stop offset="100%" stop-color="#4facfe"/>
+    </linearGradient>
+
+    <!-- Glow filter for the name -->
+    <filter id="glow" x="-20%" y="-80%" width="140%" height="260%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="7" result="blur1"/>
+      <feGaussianBlur in="SourceGraphic" stdDeviation="14" result="blur2"/>
+      <feMerge>
+        <feMergeNode in="blur2"/>
+        <feMergeNode in="blur1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Glow filter for accent lines -->
+    <filter id="lineGlow" x="-5%" y="-200%" width="110%" height="500%">
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Dot grid pattern -->
+    <pattern id="dots" width="32" height="32" patternUnits="userSpaceOnUse">
+      <circle cx="16" cy="16" r="0.9" fill="#1e3a5f" opacity="0.55"/>
+    </pattern>
+
+    <!-- CSS animations -->
+    <style>
+      .title {
+        animation: fadeUp 1.1s cubic-bezier(.23,1,.32,1) 0.1s both;
+      }
+      .sub {
+        animation: fadeUp 1.1s cubic-bezier(.23,1,.32,1) 0.45s both;
+      }
+      .acc {
+        animation: fadeIn 1.2s ease 0.7s both;
+      }
+      @keyframes fadeUp {
+        from { opacity: 0; transform: translateY(14px); }
+        to   { opacity: 1; transform: translateY(0);    }
+      }
+      @keyframes fadeIn {
+        from { opacity: 0; }
+        to   { opacity: 1; }
+      }
+    </style>
+
+  </defs>
+
+  <!-- Background layers -->
+  <rect width="900" height="260" fill="#0d1117"/>
+  <rect width="900" height="260" fill="url(#bgGlow)"/>
+  <rect width="900" height="260" fill="url(#dots)"/>
+
+  <!-- Top wave -->
+  <path d="M0,0 C180,90 380,8 530,52 C680,96 800,28 900,54 L900,0 Z"
+        fill="#0d1117"/>
+
+  <!-- Bottom wave -->
+  <path d="M0,260 C180,172 380,252 530,208 C680,164 800,238 900,214 L900,260 Z"
+        fill="#0d1117"/>
+
+  <!-- Accent lines (left) -->
+  <g class="acc" filter="url(#lineGlow)">
+    <line x1="42" y1="130" x2="235" y2="130" stroke="#58a6ff" stroke-width="1" opacity="0.7"/>
+    <circle cx="42"  cy="130" r="3" fill="#58a6ff" opacity="0.9"/>
+    <circle cx="235" cy="130" r="2" fill="#58a6ff" opacity="0.6"/>
+  </g>
+
+  <!-- Accent lines (right) -->
+  <g class="acc" filter="url(#lineGlow)">
+    <line x1="665" y1="130" x2="858" y2="130" stroke="#58a6ff" stroke-width="1" opacity="0.7"/>
+    <circle cx="665" cy="130" r="2" fill="#58a6ff" opacity="0.6"/>
+    <circle cx="858" cy="130" r="3" fill="#58a6ff" opacity="0.9"/>
+  </g>
+
+  <!-- Name — glow halo layer -->
+  <text class="title"
+        x="450" y="145" text-anchor="middle"
+        font-family="'Arial Black', 'Impact', Gadget, sans-serif"
+        font-size="74" font-weight="900"
+        fill="#58a6ff" opacity="0.18"
+        letter-spacing="9"
+        filter="url(#glow)">TRAN TAN DAT</text>
+
+  <!-- Name — main layer -->
+  <text class="title"
+        x="450" y="145" text-anchor="middle"
+        font-family="'Arial Black', 'Impact', Gadget, sans-serif"
+        font-size="74" font-weight="900"
+        fill="url(#nameGrad)"
+        letter-spacing="9">TRAN TAN DAT</text>
+
+  <!-- Subtitle -->
+  <text class="sub"
+        x="450" y="186" text-anchor="middle"
+        font-family="'Segoe UI', Arial, sans-serif"
+        font-size="15.5" fill="#8b949e"
+        letter-spacing="3.5">Full-Stack Developer  ·  AI Enthusiast  ·  Vietnam</text>
+
+</svg>
