@@ -1,16 +1,7 @@
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=220&section=header&text=Trần%20Tấn%20Đạt&fontSize=60&fontColor=58a6ff&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Vietnam%20🇻🇳&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=220&section=header&text=TRAN%20TAN%20DAT&fontSize=60&fontColor=58a6ff&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Vietnam%20🇻🇳&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%"/>
 </div>
-
-<!-- Typing Animation -->
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%92%BB+Building+things+that+matter;%F0%9F%A4%96+AI+%2B+Automation+%3D+%E2%9D%A4%EF%B8%8F;%F0%9F%9A%80+Always+learning%2C+always+growing" alt="Typing SVG" />
-  </a>
-</div>
-
-<br/>
 
 <!-- Profile Views & Followers -->
 <div align="center">
@@ -36,17 +27,17 @@
 
 ### Who am I?
 
-- **Trần Tấn Đạt** from Vietnam 🇻🇳
+- **TRAN TAN DAT** from Vietnam 🇻🇳
 - Full-Stack Developer & AI Enthusiast
 - Software Engineering Student
 - *"Don't get cold feet. I know you gonna make it. Break a leg."*
 
-### What I'm working on
+### Featured Projects
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="20"/> [WebAI Automation Team](https://github.com/DatTran26/WebAI-Automation-Team) `TypeScript`
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Sheaf%20of%20Rice.png" width="20"/> [Smart Farm IoT](https://github.com/DatTran26/Smart-Farm) `JavaScript`
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" width="20"/> [SOC Security System](https://github.com/DatTran26/SOC-System) `TypeScript`
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Hotel.png" width="20"/> [Booking Web App](https://github.com/DatTran26/Booking-Web-App) `C#`
+<a href="https://github.com/DatTran26/WebAI-Automation-Team"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DatTran26&repo=WebAI-Automation-Team&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=e3b341&text_color=c9d1d9" width="100%"/></a>
+<a href="https://github.com/DatTran26/SOC-System"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DatTran26&repo=SOC-System&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=e3b341&text_color=c9d1d9" width="100%"/></a>
+<a href="https://github.com/DatTran26/Smart-Farm"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DatTran26&repo=Smart-Farm&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=e3b341&text_color=c9d1d9" width="100%"/></a>
+<a href="https://github.com/DatTran26/Booking-Web-App"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DatTran26&repo=Booking-Web-App&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=e3b341&text_color=c9d1d9" width="100%"/></a>
 
 </td>
 <td width="50%" valign="top">
