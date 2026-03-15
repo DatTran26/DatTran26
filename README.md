@@ -19,7 +19,9 @@
 <br/>
 
 <!-- Featured Projects -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="32" alt="Featured Projects"/> Featured Projects
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:161b22,100:0d1117&height=55&text=🚀+Featured+Projects&fontSize=22&fontColor=58a6ff&fontAlignY=65" width="100%"/>
+</div>
 
 <div align="center">
 <table>
@@ -57,7 +59,9 @@
 <br/>
 
 <!-- Tech Stack -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="32" alt="Tech Stack"/> Tech Stack
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:161b22,100:0d1117&height=55&text=🛠+Tech+Stack&fontSize=22&fontColor=58a6ff&fontAlignY=65" width="100%"/>
+</div>
 
 <div align="center">
 
@@ -94,7 +98,9 @@
 <br/>
 
 <!-- GitHub Stats -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="32" alt="Stats"/> GitHub Stats
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:161b22,100:0d1117&height=55&text=📊+GitHub+Stats&fontSize=22&fontColor=58a6ff&fontAlignY=65" width="100%"/>
+</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DatTran26&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" width="49%" alt="GitHub Stats"/>
@@ -115,7 +121,9 @@
 <br/>
 
 <!-- WakaTime Stats -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Stopwatch.png" width="32" alt="WakaTime"/> Weekly Coding Stats
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:161b22,100:0d1117&height=55&text=⏱+Weekly+Coding+Stats&fontSize=22&fontColor=58a6ff&fontAlignY=65" width="100%"/>
+</div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/WakaTime-Tracking%20Active-58a6ff?style=for-the-badge&logo=wakatime&logoColor=white&labelColor=161b22" alt="WakaTime"/>
@@ -145,7 +153,9 @@ HTML       3 mins                ▓░░░░░░░░░░░░░░�
 <br/>
 
 <!-- Profile Summary -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="32" alt="Summary"/> Profile Summary
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:161b22,100:0d1117&height=55&text=🏆+Profile+Summary&fontSize=22&fontColor=58a6ff&fontAlignY=65" width="100%"/>
+</div>
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DatTran26&theme=github_dark" width="90%" alt="Profile Details"/>
@@ -162,7 +172,9 @@ HTML       3 mins                ▓░░░░░░░░░░░░░░�
 <br/>
 
 <!-- Snake Animation -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="32" alt="Snake"/> Contribution Snake
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:161b22,100:0d1117&height=55&text=🐍+Contribution+Snake&fontSize=22&fontColor=58a6ff&fontAlignY=65" width="100%"/>
+</div>
 
 <div align="center">
   <picture>
@@ -175,7 +187,9 @@ HTML       3 mins                ▓░░░░░░░░░░░░░░�
 <br/>
 
 <!-- Connect With Me -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="32" alt="Connect"/> Connect With Me
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:161b22,100:0d1117&height=55&text=🤝+Connect+With+Me&fontSize=22&fontColor=58a6ff&fontAlignY=65" width="100%"/>
+</div>
 
 <div align="center">
   <a href="https://www.facebook.com/datvuive.26">
