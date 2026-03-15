@@ -25,6 +25,15 @@
       </feMerge>
     </filter>
 
+    <!-- Glow filter for subtitle -->
+    <filter id="subGlow" x="-5%" y="-80%" width="110%" height="260%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
     <!-- Glow filter for accent lines -->
     <filter id="lineGlow" x="-5%" y="-200%" width="110%" height="500%">
       <feGaussianBlur stdDeviation="2.5" result="blur"/>
@@ -93,10 +102,12 @@
   </text>
 
   <!-- Subtitle -->
-  <text x="450" y="190" text-anchor="middle"
+  <text x="450" y="191" text-anchor="middle"
         font-family="'Segoe UI', Arial, sans-serif"
-        font-size="17" fill="#c9d1d9"
+        font-size="18" font-weight="500"
+        fill="#e6edf3"
         letter-spacing="3"
+        filter="url(#subGlow)"
         opacity="0">
     Full-Stack Developer  ·  AI Enthusiast  ·  Vietnam
     <animate attributeName="opacity" from="0" to="1" dur="1s" begin="0.45s" fill="freeze"/>
