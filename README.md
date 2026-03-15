@@ -18,47 +18,41 @@
 
 <br/>
 
-<!-- About Me -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="32" alt="About Me"/> About Me
+<!-- Featured Projects -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="32" alt="Featured Projects"/> Featured Projects
 
+<div align="center">
 <table>
 <tr>
-<td width="50%" valign="top">
-
-### Who am I?
-
-- **TRAN TAN DAT** from Vietnam 🇻🇳
-- Full-Stack Developer & AI Enthusiast
-- Software Engineering Student
-- *"Don't get cold feet. I know you gonna make it. Break a leg."*
-
-### Featured Projects
-
-<a href="https://github.com/DatTran26/WebAI-Automation-Team"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DatTran26&repo=WebAI-Automation-Team&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=e3b341&text_color=c9d1d9" width="100%"/></a>
-<a href="https://github.com/DatTran26/SOC-System"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DatTran26&repo=SOC-System&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=e3b341&text_color=c9d1d9" width="100%"/></a>
-<a href="https://github.com/DatTran26/Smart-Farm"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DatTran26&repo=Smart-Farm&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=e3b341&text_color=c9d1d9" width="100%"/></a>
-<a href="https://github.com/DatTran26/Booking-Web-App"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DatTran26&repo=Booking-Web-App&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=e3b341&text_color=c9d1d9" width="100%"/></a>
-
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/DatTran26/WebAI-Automation-Team">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DatTran26&repo=WebAI-Automation-Team&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=e3b341&text_color=c9d1d9" width="100%"/>
+</a>
+<sub>Web automation platform with AI-powered multi-agent orchestration</sub>
 </td>
-<td width="50%" valign="top">
-
-### What I'm into
-
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" width="20"/> Artificial Intelligence & Machine Learning
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20with%20Meridians.png" width="20"/> Web Development (Full-Stack)
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="20"/> Automation & DevOps
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Satellite%20Antenna.png" width="20"/> IoT & Smart Systems
-
-### Quick facts
-
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" width="20"/> Currently exploring **AI Agents & Automation**
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Seedling.png" width="20"/> Learning **Cloud Architecture & DevOps**
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" width="20"/> Fun fact: I turn coffee into code `☕ → 💻`
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Incoming%20Envelope.png" width="20"/> Reach me on [Facebook](https://www.facebook.com/datvuive.26)
-
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/DatTran26/SOC-System">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DatTran26&repo=SOC-System&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=e3b341&text_color=c9d1d9" width="100%"/>
+</a>
+<sub>Real-time security monitoring detecting threats via AWS CloudWatch logs</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/DatTran26/Smart-Farm">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DatTran26&repo=Smart-Farm&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=e3b341&text_color=c9d1d9" width="100%"/>
+</a>
+<sub>Smart farm management system with IoT sensor integration</sub>
+</td>
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/DatTran26/Booking-Web-App">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DatTran26&repo=Booking-Web-App&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=e3b341&text_color=c9d1d9" width="100%"/>
+</a>
+<sub>Tourism booking system built with C# and multi-layer architecture</sub>
 </td>
 </tr>
 </table>
+</div>
 
 <br/>
 
@@ -116,38 +110,6 @@
 <!-- Activity Graph -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DatTran26&bg_color=0d1117&color=58a6ff&line=58a6ff&point=e3b341&area=true&area_color=1a1b27&hide_border=true&custom_title=Contribution%20Activity" width="98%" alt="Activity Graph"/>
-</div>
-
-<br/>
-
-<!-- Top Projects -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="32" alt="Projects"/> Top Projects
-
-<div align="center">
-  <a href="https://github.com/DatTran26/WebAI-Automation-Team">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DatTran26&repo=WebAI-Automation-Team&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=e3b341&text_color=c9d1d9" width="49%" />
-  </a>
-  <a href="https://github.com/DatTran26/SOC-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DatTran26&repo=SOC-System&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=e3b341&text_color=c9d1d9" width="49%" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/DatTran26/Smart-Farm">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DatTran26&repo=Smart-Farm&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=e3b341&text_color=c9d1d9" width="49%" />
-  </a>
-  <a href="https://github.com/DatTran26/Booking-Web-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DatTran26&repo=Booking-Web-App&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=e3b341&text_color=c9d1d9" width="49%" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/DatTran26/Quan-Ly-Cafe">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DatTran26&repo=Quan-Ly-Cafe&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=e3b341&text_color=c9d1d9" width="49%" />
-  </a>
-  <a href="https://github.com/DatTran26/ai-engineering-toolkit">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DatTran26&repo=ai-engineering-toolkit&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=e3b341&text_color=c9d1d9" width="49%" />
-  </a>
 </div>
 
 <br/>
