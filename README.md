@@ -28,13 +28,13 @@
 <a href="https://github.com/DatTran26/WebAI-Automation-Team">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=DatTran26&repo=WebAI-Automation-Team&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=e3b341&text_color=c9d1d9" width="100%"/>
 </a>
-<sub>Web automation platform with AI-powered multi-agent orchestration</sub>
+<p align="center"><b><i>Web automation platform with AI-powered multi-agent orchestration</i></b></p>
 </td>
 <td width="50%" align="center" valign="top">
 <a href="https://github.com/DatTran26/SOC-System">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=DatTran26&repo=SOC-System&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=e3b341&text_color=c9d1d9" width="100%"/>
 </a>
-<sub>Real-time security monitoring detecting threats via AWS CloudWatch logs</sub>
+<p align="center"><b><i>Real-time security monitoring detecting threats via AWS CloudWatch logs</i></b></p>
 </td>
 </tr>
 <tr>
@@ -42,13 +42,13 @@
 <a href="https://github.com/DatTran26/Smart-Farm">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=DatTran26&repo=Smart-Farm&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=e3b341&text_color=c9d1d9" width="100%"/>
 </a>
-<sub>Smart farm management system with IoT sensor integration</sub>
+<p align="center"><b><i>Smart farm management system with IoT sensor integration</i></b></p>
 </td>
 <td width="50%" align="center" valign="top">
 <a href="https://github.com/DatTran26/Booking-Web-App">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=DatTran26&repo=Booking-Web-App&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=e3b341&text_color=c9d1d9" width="100%"/>
 </a>
-<sub>Tourism booking system built with C# and multi-layer architecture</sub>
+<p align="center"><b><i>Tourism booking system built with C# and multi-layer architecture</i></b></p>
 </td>
 </tr>
 </table>
