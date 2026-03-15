@@ -105,7 +105,7 @@
   <text x="450" y="191" text-anchor="middle"
         font-family="'Segoe UI', Arial, sans-serif"
         font-size="18" font-weight="500"
-        fill="#f85149"
+        fill="#e3b341"
         letter-spacing="3"
         filter="url(#subGlow)"
         opacity="0">
