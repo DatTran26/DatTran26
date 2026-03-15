@@ -20,7 +20,7 @@
 
 <!-- Featured Projects -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:161b22,100:0d1117&height=55&text=Featured+Projects&fontSize=22&fontColor=f85149&fontAlignY=65" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,50:0d1928,100:0d1117&height=64&text=Featured+Projects&fontSize=26&fontColor=f85149&fontAlignY=70&stroke=f85149&strokeWidth=0.8" width="100%"/>
 </div>
 
 <div align="center">
@@ -60,7 +60,7 @@
 
 <!-- Tech Stack -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:161b22,100:0d1117&height=55&text=Tech+Stack&fontSize=22&fontColor=f85149&fontAlignY=65" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,50:0d1928,100:0d1117&height=64&text=Tech+Stack&fontSize=26&fontColor=f85149&fontAlignY=70&stroke=f85149&strokeWidth=0.8" width="100%"/>
 </div>
 
 <div align="center">
@@ -99,7 +99,7 @@
 
 <!-- GitHub Stats -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:161b22,100:0d1117&height=55&text=GitHub+Stats&fontSize=22&fontColor=f85149&fontAlignY=65" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,50:0d1928,100:0d1117&height=64&text=GitHub+Stats&fontSize=26&fontColor=f85149&fontAlignY=70&stroke=f85149&strokeWidth=0.8" width="100%"/>
 </div>
 
 <div align="center">
@@ -122,7 +122,7 @@
 
 <!-- WakaTime Stats -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:161b22,100:0d1117&height=55&text=Weekly+Coding+Stats&fontSize=22&fontColor=f85149&fontAlignY=65" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,50:0d1928,100:0d1117&height=64&text=Weekly+Coding+Stats&fontSize=26&fontColor=f85149&fontAlignY=70&stroke=f85149&strokeWidth=0.8" width="100%"/>
 </div>
 
 <div align="center">
@@ -154,7 +154,7 @@ HTML       3 mins                ▓░░░░░░░░░░░░░░�
 
 <!-- Profile Summary -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:161b22,100:0d1117&height=55&text=Profile+Summary&fontSize=22&fontColor=f85149&fontAlignY=65" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,50:0d1928,100:0d1117&height=64&text=Profile+Summary&fontSize=26&fontColor=f85149&fontAlignY=70&stroke=f85149&strokeWidth=0.8" width="100%"/>
 </div>
 
 <div align="center">
@@ -173,7 +173,7 @@ HTML       3 mins                ▓░░░░░░░░░░░░░░�
 
 <!-- Snake Animation -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:161b22,100:0d1117&height=55&text=Contribution+Snake&fontSize=22&fontColor=f85149&fontAlignY=65" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,50:0d1928,100:0d1117&height=64&text=Contribution+Snake&fontSize=26&fontColor=f85149&fontAlignY=70&stroke=f85149&strokeWidth=0.8" width="100%"/>
 </div>
 
 <div align="center">
@@ -188,7 +188,7 @@ HTML       3 mins                ▓░░░░░░░░░░░░░░�
 
 <!-- Connect With Me -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:161b22,100:0d1117&height=55&text=Connect+With+Me&fontSize=22&fontColor=f85149&fontAlignY=65" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,50:0d1928,100:0d1117&height=64&text=Connect+With+Me&fontSize=26&fontColor=f85149&fontAlignY=70&stroke=f85149&strokeWidth=0.8" width="100%"/>
 </div>
 
 <div align="center">
