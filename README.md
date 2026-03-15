@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <div align="center">
-  <img src="assets/header.svg" width="100%" alt="TRAN TAN DAT"/>
+  <img src="assets/header.svg?v=2" width="100%" alt="TRAN TAN DAT"/>
 </div>
 
 <!-- Profile Views & Followers -->
