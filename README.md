@@ -136,18 +136,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 April 2026 - To: 15 April 2026
+From: 09 April 2026 - To: 16 April 2026
 
-Total Time: 3 hrs 35 mins
+Total Time: 9 hrs 44 mins
 
-Markdown     1 hr 18 mins          ████████▒░░░░░░░░░░░░░░░░   32.89 %
-Python       1 hr 10 mins          ███████▒░░░░░░░░░░░░░░░░░   29.66 %
-Git Config   42 mins               ████▒░░░░░░░░░░░░░░░░░░░░   17.94 %
-Other        22 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.45 %
-JSON         9 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 %
-Text         8 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 %
-Batchfile    4 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
-JavaScript   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+Python       3 hrs 39 mins         ████████▒░░░░░░░░░░░░░░░░   33.11 %
+Markdown     2 hrs 7 mins          ████▓░░░░░░░░░░░░░░░░░░░░   19.14 %
+TypeScript   1 hr 24 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.70 %
+Other        1 hr 19 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.93 %
+Git Config   43 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.58 %
+Batchfile    31 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.69 %
+JavaScript   22 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 %
+Bash         20 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
+JSON         12 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
+CSS          8 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
 ```
 
 <!--END_SECTION:waka-->
