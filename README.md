@@ -136,19 +136,19 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 July 2026 - To: 17 July 2026
+From: 11 July 2026 - To: 18 July 2026
 
-Total Time: 9 hrs 46 mins
+Total Time: 7 hrs 31 mins
 
-TOML         2 hrs 50 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.17 %
-Markdown     1 hr 38 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.77 %
-HTML         1 hr 31 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.58 %
-JSON         1 hr 31 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.58 %
-Batchfile    1 hr 1 min            ██▒░░░░░░░░░░░░░░░░░░░░░░   09.87 %
-SSH Config   55 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   08.82 %
-Other        40 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.50 %
-Git Config   15 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
-PowerShell   1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+TOML         2 hrs 50 mins         ████████▓░░░░░░░░░░░░░░░░   34.62 %
+HTML         1 hr 30 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.36 %
+JSON         1 hr 2 mins           ███▒░░░░░░░░░░░░░░░░░░░░░   12.80 %
+Batchfile    1 hr 1 min            ███░░░░░░░░░░░░░░░░░░░░░░   12.58 %
+Other        40 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 %
+Markdown     39 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 %
+SSH Config   17 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 %
+Git Config   7 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
+PowerShell   1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
 ```
 
 <!--END_SECTION:waka-->
