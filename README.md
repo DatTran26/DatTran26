@@ -136,11 +136,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 August 2026 - To: 09 August 2026
+From: 03 August 2026 - To: 10 August 2026
 
-Total Time: 0 secs
+Total Time: 14 hrs 18 mins
 
-No activity tracked
+Markdown      7 hrs 58 mins         █████████████▓░░░░░░░░░░░   54.87 %
+JSON          1 hr 57 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.51 %
+JavaScript    1 hr 10 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 %
+TOML          50 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.73 %
+PowerShell    46 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.38 %
+TypeScript    33 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 %
+HTML          23 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
+Git Config    14 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
+Other         13 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
+Text          13 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
 ```
 
 <!--END_SECTION:waka-->
