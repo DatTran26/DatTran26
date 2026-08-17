@@ -136,16 +136,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 August 2026 - To: 16 August 2026
+From: 10 August 2026 - To: 17 August 2026
 
-Total Time: 4 hrs 13 mins
+Total Time: 5 hrs 1 min
 
-Markdown     3 hrs 41 mins         █████████████████████▒░░░   84.91 %
-PowerShell   14 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.66 %
-JavaScript   10 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 %
-Other        7 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 %
-JSON         5 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
-CSS          1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
+Markdown     3 hrs 36 mins         █████████████████▓░░░░░░░   70.21 %
+TypeScript   53 mins               ████▒░░░░░░░░░░░░░░░░░░░░   17.38 %
+HTML         12 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 %
+JSON         9 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
+Other        7 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
+JavaScript   3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
+Caddyfile    3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
+Text         1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+Git Config   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+CSS          0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
