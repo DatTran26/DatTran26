@@ -136,20 +136,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 August 2026 - To: 19 August 2026
+From: 13 August 2026 - To: 20 August 2026
 
-Total Time: 16 hrs 23 mins
+Total Time: 11 hrs 15 mins
 
-Markdown      8 hrs 33 mins         █████████████░░░░░░░░░░░░   51.62 %
-TypeScript    4 hrs 1 min           ██████░░░░░░░░░░░░░░░░░░░   24.22 %
-HTML          51 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.18 %
-Bash          31 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 %
-Python        27 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
-SSH Config    26 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
-JSON          25 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
-Caddyfile     24 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 %
-PowerShell    18 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
-Other         11 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
+Markdown      6 hrs 38 mins         ██████████████▓░░░░░░░░░░   58.20 %
+TypeScript    2 hrs 9 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.88 %
+HTML          28 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 %
+Python        27 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 %
+SSH Config    26 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 %
+Caddyfile     24 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 %
+PowerShell    18 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
+JSON          11 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
+Other         9 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
+Text          6 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
 ```
 
 <!--END_SECTION:waka-->
