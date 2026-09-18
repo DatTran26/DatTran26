@@ -136,20 +136,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 September 2026 - To: 17 September 2026
+From: 11 September 2026 - To: 18 September 2026
 
-Total Time: 22 hrs 18 mins
+Total Time: 13 hrs 57 mins
 
-Markdown      8 hrs 57 mins         █████████▒░░░░░░░░░░░░░░░   37.60 %
-Bash          2 hrs 29 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.49 %
-Go            2 hrs 22 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.96 %
-TypeScript    1 hr 58 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 %
-Batchfile     1 hr 39 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.00 %
-JSON          1 hr 39 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.96 %
-Other         1 hr 30 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.34 %
-Dart          1 hr 19 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.54 %
-Text          27 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
-JavaScript    25 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
+Markdown      7 hrs 20 mins         ████████████░░░░░░░░░░░░░   47.78 %
+Batchfile     1 hr 39 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.84 %
+Other         1 hr 24 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.16 %
+Dart          1 hr 19 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 %
+Go            1 hr 13 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 %
+JSON          34 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 %
+JavaScript    21 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
+Text          19 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
+Bash          16 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
+SQL           16 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
 ```
 
 <!--END_SECTION:waka-->
